@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 
-const API_URL='https://github.com/harishinim05-lgtm/backend.git';
+const API_URL='https://backend-716y.onrender.com';
 
 
 export const register=async(username,password)=>{
